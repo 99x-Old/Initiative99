@@ -1,0 +1,16 @@
+D:\Ennoble\Initiative99\Repository\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Ennoble\Initiative99\Repository\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Ennoble\Initiative99\Repository\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Ennoble\Initiative99\Repository\bin\Debug\netcoreapp3.1\Initiative99.exe
+D:\Ennoble\Initiative99\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+D:\Ennoble\Initiative99\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+D:\Ennoble\Initiative99\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\Ennoble\Initiative99\Repository\bin\Debug\netcoreapp3.1\Initiative99.dll
+D:\Ennoble\Initiative99\Repository\bin\Debug\netcoreapp3.1\Initiative99.pdb
+D:\Ennoble\Initiative99\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+D:\Ennoble\Initiative99\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+D:\Ennoble\Initiative99\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+D:\Ennoble\Initiative99\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+D:\Ennoble\Initiative99\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+D:\Ennoble\Initiative99\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+D:\Ennoble\Initiative99\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
