@@ -59,3 +59,4 @@ D:\Ennoble\Initiative99\Initiative99\obj\Debug\netcoreapp3.1\staticwebassets\Ini
 D:\Ennoble\Initiative99\Initiative99\obj\Debug\netcoreapp3.1\Initiative99.dll
 D:\Ennoble\Initiative99\Initiative99\obj\Debug\netcoreapp3.1\Initiative99.pdb
 D:\Ennoble\Initiative99\Initiative99\obj\Debug\netcoreapp3.1\Initiative99.genruntimeconfig.cache
+D:\Ennoble\Initiative99\Initiative99\obj\Debug\netcoreapp3.1\Initiative99.csprojAssemblyReference.cache

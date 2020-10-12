@@ -10,8 +10,8 @@ namespace Initiative99.Repository
 	{
 		Task<List<UserInitiativeAction>> GetusersByAction(long Id);
 		//Task<List<UserInitiativeAction>> GetusersByAction(long Id);
-		Task<bool> CreateUser(User user);
-		Task<bool> DeleteUser(long id);
-		Task<bool> UpdateUser(User user);
+		Task<bool> CreateUserAction(UserInitiativeAction record);
+		Task<bool> DeleteUserAction(long id);
+		
 	}
 }
