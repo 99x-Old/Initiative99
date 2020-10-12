@@ -30,7 +30,7 @@ namespace Initiative99
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<InitiativeContext>(options =>
-              options.UseSqlServer(Configuration.GetConnectionString(name:"DefaultConnection")));
+              options.UseSqlServer(Configuration.GetConnectionString(name: "AzureConnection")));
             services.AddScoped<IInitiativeRepository, InitiativeRepository>();
             services.AddScoped<IInitiativeActionRepository, InitiativeActionRepository>();
             services.AddScoped<IUserRepository, UserRepository>();

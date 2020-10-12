@@ -14,6 +14,7 @@ namespace Initiative99.Models
 		public int RateId { get; set; }
 		public int Value { get; set; }
 		public int RateBy { get; set; }
+		public long UserId { get; set; }
 		public User User { get; set; }
 
 	}
