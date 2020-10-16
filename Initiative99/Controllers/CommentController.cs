@@ -38,8 +38,8 @@ namespace Initiative99.Controllers
 			{
 				Description = data.Description,
 				Date = DateTime.Now,
-				//InitiativeActionId = data.InitiativeAction,
-				//UserId = data.User,
+				InitiativeActionId = data.InitiativeActionId,
+				UserId = data.UserId,
 			};
 			var response = await CommentRepository.CreateComment(record);
 			return Ok(response);
