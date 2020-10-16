@@ -38,6 +38,7 @@ namespace Initiative99
             services.AddScoped<IMeetingNoteRepository, MeetingNoteRepository>();
             services.AddScoped<ICommentRepository, CommentRepository>();
             services.AddScoped<IRateRepository, RateRepository>();
+            services.AddScoped<IUserInitiativeActionsRepository, UserInitiativeActionRepository>();
             services.AddControllers();
         }
 
