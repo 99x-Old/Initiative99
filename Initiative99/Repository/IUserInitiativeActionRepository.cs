@@ -8,10 +8,10 @@ namespace Initiative99.Repository
 {
 	public  interface IUserInitiativeActionRepository
 	{
-		Task<List<UserInitiativeAction>> GetusersByAction(long Id);
-		//Task<List<UserInitiativeAction>> GetusersByAction(long Id);
+		Task<List<UserInitiativeAction>> GetUsersByAction(long Id);
+		Task<List<UserInitiativeAction>> GetActionsByUserId(long Id);
 		Task<bool> CreateUserAction(UserInitiativeAction record);
-		Task<bool> DeleteUserAction(long id);
+		Task<bool> DeleteUserAction(long ActionId, long userid);
 		
 	}
 }
